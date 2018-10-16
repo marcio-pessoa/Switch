@@ -1,4 +1,4 @@
-/* Switch.cpp - Switch manipulation
+/* Switch.cpp - Switch Manipulation Library
  * 
  */
 

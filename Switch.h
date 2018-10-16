@@ -1,4 +1,4 @@
-/* Switch.h - Switch manipulation
+/* Switch.h - Switch Manipulation Library
  * 
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none
